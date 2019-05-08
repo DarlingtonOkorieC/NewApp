@@ -1,0 +1,4 @@
+#Sat May 04 16:41:11 WAT 2019
+base.0=/home/darlington/NewApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
